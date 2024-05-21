@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "konyvkolcsonzo2": {
+      "commandName": "Project",
+      "commandLineArgs": "--stat"
+    }
+  }
+}

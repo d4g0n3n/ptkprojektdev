@@ -1,0 +1,70 @@
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\konyvkolcsonzo2.exe
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\konyvkolcsonzo2.deps.json
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\konyvkolcsonzo2.runtimeconfig.json
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\konyvkolcsonzo2.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\konyvkolcsonzo2.pdb
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.csproj.AssemblyReference.cache
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.Form1.resources
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.csproj.GenerateResource.cache
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.AssemblyInfoInputs.cache
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.AssemblyInfo.cs
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.csproj.CoreCompileInputs.cache
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkol.5AEF4E62.Up2Date
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\obj\Debug\net6.0-windows\refint\konyvkolcsonzo2.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.pdb
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.genruntimeconfig.cache
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2\konyvkolcsonzo2\obj\Debug\net6.0-windows\ref\konyvkolcsonzo2.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\konyvkolcsonzo2.exe
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\konyvkolcsonzo2.deps.json
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\konyvkolcsonzo2.runtimeconfig.json
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\konyvkolcsonzo2.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\konyvkolcsonzo2.pdb
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.csproj.AssemblyReference.cache
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.Form1.resources
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.csproj.GenerateResource.cache
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.AssemblyInfoInputs.cache
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.AssemblyInfo.cs
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.csproj.CoreCompileInputs.cache
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkol.5AEF4E62.Up2Date
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\obj\Debug\net6.0-windows\refint\konyvkolcsonzo2.dll
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.pdb
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\obj\Debug\net6.0-windows\konyvkolcsonzo2.genruntimeconfig.cache
+C:\Users\hanya\Desktop\probavizsga\books\szoftvervizsga_cser_hajnalka_14sl_6\desktop\konyvkolcsonzo2_ez a tuti a törlés is működik\konyvkolcsonzo2\obj\Debug\net6.0-windows\ref\konyvkolcsonzo2.dll
